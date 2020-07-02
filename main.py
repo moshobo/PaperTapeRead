@@ -1,7 +1,3 @@
-# I created this project to read some old paper tapes.  - July 2nd, 2020
-# Here is a useful link on how to read the tapes manually: https://iclces.uk/articles/reading_punched_paper_tape.html
-# StackOverflow Help: https://stackoverflow.com/questions/7396849/convert-binary-to-ascii-and-vice-versa
-
 def sum_digits_string(str1):
     sum_digit = 0
     for x in str1:
