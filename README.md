@@ -1,7 +1,7 @@
 # PaperTapeRead
-Project Start = July 2nd, 2020
 **Version 0.1**
 ---
+
 
 ## Background
 I created this project to read some old paper tapes I found at home from the 1970's to 1980's. There are five sample tapes, all containing a variation of the same message, and one "error tape". The tapes have a series of lines that have 1-9 holes in them that span the shorter dimension of the tape. These holes can be transalted into binary, with a hole representing a "1". You can read more about the system here: https://iclces.uk/articles/reading_punched_paper_tape.html
